@@ -1,0 +1,10 @@
+torch
+librosa
+numpy
+torchlibrosa
+matplotlib
+seaborn
+scipy
+pandas
+scikit-learn
+xlsxwriter
