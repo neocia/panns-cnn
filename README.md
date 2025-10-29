@@ -2,7 +2,7 @@
 
 ## This repository is a fork of the original (https://github.com/MartinHodges/audio-pann-train  and https://github.com/qiuqiangkong/audioset_tagging_cnn)
 
-Adapt for nvidia GPU: | NVIDIA-SMI 550.144.03             Driver Version: 550.144.03     CUDA Version: 12.4     |
+This fine-tuning was tested on an NVIDIA GPU:: | NVIDIA-SMI 550.144.03             Driver Version: 550.144.03     CUDA Version: 12.4     |
 
 Datasets:
 - coswara:  https://zenodo.org/records/7188627
